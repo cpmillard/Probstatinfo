@@ -1,0 +1,182 @@
+.logo {
+  float: left;
+  margin: 15px 0 10px 0;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.navbar {
+  padding-bottom: 5px;
+  color: white;
+  background: #171717;
+  margin: 0;
+  border-bottom: 3px solid #084cad;
+}
+
+.navbar h2 {
+  float: left;
+  padding-left: 10px;
+  padding-top: 7px;
+  font-family: 'Molengo', sans-serif;
+}
+
+.navbar-default .navbar-nav li  a { 
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.navbar-default .navbar-nav li  a:hover {
+  color: #ed6019;
+  transition: color 0.1s ease-in;
+}
+
+.jumbotron {
+  padding: 50px;
+  border-bottom: 2px solid #ed6019;
+  margin: 0;
+  background-image: url("../images/noisy_grid.png");
+}
+
+.btn-primary {
+  background-color: #084cad;
+  border: 1px solid #084cad;
+}
+
+.jumbotron img {
+  max-width: 80%;
+  border-radius: 10px;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.mini-footer {
+  background: #1e262b;
+  padding: 0 50px;
+  color: white;
+  text-align: justify;
+  border-bottom: 2px solid #29323c;
+}
+
+.mini-footer h3 {
+  text-align: left;
+  padding-bottom: 15px;
+
+}
+
+.mini-footer ul {
+  margin: 0;
+  text-align: left;
+  padding-left: 80px;
+  position: relative;
+  font-size: 20px;
+
+}
+
+.mini-footer ul li a {
+  text-decoration: none;
+  text-align: left;
+  line-height: 2;
+  font-size: 18px;
+
+  font-weight: 300;
+  color: white;
+}
+
+.mini-footer ul li a:hover {
+  color: #ed6019;
+}
+
+.orange {
+  color: #ed6019!important;
+}
+
+li {
+  list-style-type: none;
+}
+
+.fa-li {
+  position: relative;
+}
+a {
+  color: #084cad;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+body {
+    font-family: "Lato", Helvetica, sans-serif;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  background: #171717;
+  padding: 10px;
+}
+
+footer p {
+  margin: 0;
+}
+
+h1 {
+  padding-bottom: 20px;
+  font-size: 50px;
+}
+
+.about {
+  background-image: url("../images/noisy_grid.png");
+  font-size: 20px;
+  font-weight: 300;
+  padding-bottom: 40px;
+  border-bottom: 2px solid #ed6019;
+}
+.about img {
+  float: left;
+  margin: 0 30px 30px 0;
+  border-radius: 10px;
+  max-width: 33%;
+}
+
+.publications {
+  background-image: url("../images/noisy_grid.png");
+  font-size: 16px;
+  text-align: justify;
+  font-weight: 300;
+  padding-bottom: 40px;
+  border-bottom: 2px solid #ed6019;
+}
+
+.publications h3 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.publications p {
+  padding-top: 20px;
+}
+
+.services {
+  background-image: url("../images/noisy_grid.png");
+  font-size: 16px;
+  text-align: justify;
+  font-weight: 300;
+  padding-bottom: 40px;
+  border-bottom: 2px solid #ed6019;
+}
+
+.services i {
+  float: left;
+  padding-right: 12px;
+  margin-top: 12px;
+}
+
+.services p {
+  padding-top: 10px;
+}
